@@ -54,6 +54,10 @@ We compile the fragment, then use jqlite or DOM scripting to pull it apart and c
 
 ## Exercise 1
 
+Open up the exercise 1 folder. Create a Dog directive and write a test for it.
+
+## Exercise 2
+
 Create a pirateStats component that renders information about the current pirate status. Unit test it to make sure it works.
 
 *Extension:* Create a pirateIsle component that renders a map of the pirate island. Unit test it to make sure it works.

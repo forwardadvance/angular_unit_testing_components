@@ -10,6 +10,7 @@ describe('Component: cat', function () {
   }));
 
   it('should render the text', function() {
+    console.log(element)
     var h1 = element.find('h1');
     expect(h1.text()).toBe('Cat miows 11 times');
   });
